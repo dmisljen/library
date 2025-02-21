@@ -12,6 +12,10 @@ Clone into your local folder
 
 > git clone https://github.com/dmisljen/library.git
 
+Navigate into the repo folder - "library"
+
+> cd library
+
 Build and run containers
 
 > docker compose build --no-cache --pull && docker compose up -d
