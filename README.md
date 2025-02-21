@@ -4,8 +4,8 @@ A short Symfony project made using TDD methodologies, with Docker integration
 ## Setup and run
 
 ### Requirements
-Git
-Docker runtime
+- Git
+- Docker runtime
 
 ### Setup
 Clone into your local folder
